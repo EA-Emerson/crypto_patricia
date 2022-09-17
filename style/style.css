@@ -2097,4 +2097,7 @@ button:hover{
         width: max-content;
     }
 
+    .fa{
+        padding: 2vw;
+    }
 }

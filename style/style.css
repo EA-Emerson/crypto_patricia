@@ -111,7 +111,7 @@ nav ul li{
     background-image:url("../img/astronaut\ \(2\).jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    height: 90vh;
+    height: 100vh;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -159,7 +159,7 @@ nav ul li{
 }
 
 .phone1{
-    height: 60vh;
+    height: 70vh;
     margin-top: 30vh;
     float: right;
     width: auto;
@@ -1162,7 +1162,9 @@ button:hover{
     .img1{
         display: none;
     }
-
+.smallnav{
+    display: none;
+}
     .smallnav{
         max-width: 100vw;
         position: fixed;
@@ -1249,6 +1251,7 @@ button:hover{
         justify-content: center;
         align-items: center;
         align-content: center;
+        padding-top: 10vh;
         display: block;
     }
 
@@ -1287,7 +1290,7 @@ button:hover{
     }
 
     .playstore, .applestore{
-        width: 25vw;
+        width: 30vw;
     }
 
     .part1arrow{
